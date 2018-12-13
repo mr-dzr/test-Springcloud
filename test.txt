@@ -2,3 +2,4 @@ asdsadsadsa123213213
 testBranch
 master
 123123213123213213212
+%APPDATA%\syntevo\SmartGit\
